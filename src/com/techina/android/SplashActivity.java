@@ -1,13 +1,8 @@
 package com.techina.android;
 
-import com.techina.android.util.SystemUiHider;
 
-import android.annotation.TargetApi;
 import android.app.Activity;
-import android.os.Build;
 import android.os.Bundle;
-import android.os.Handler;
-import android.view.MotionEvent;
 import android.widget.TextView;
 
 /**
